@@ -17,7 +17,7 @@ This repository contains implementations of three different neural network archi
    - Connected to a feed forward network and trained for 20 epochs.
 
 ## Dataset
-The [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset consists of 70,000 grayscale images of 10 fashion categories, split into 60,000 training and 10,000 test images. Each image is 28x28 pixels.
+The [Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist) dataset consists of 70,000 grayscale images of 10 fashion categories, split into 60,000 training and 10,000 test images. Each image is 28x28 pixels.
 
 ## How to Run
 1. Clone this repository:
