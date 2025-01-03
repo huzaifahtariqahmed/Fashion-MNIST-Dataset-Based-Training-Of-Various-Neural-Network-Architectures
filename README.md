@@ -42,7 +42,7 @@ The following metrics were used to evaluate the performance of the models:
 ### Performance Comparison
 | Model                  | Training Epochs | Test Accuracy | Remarks                             |
 |------------------------|-----------------|---------------|-------------------------------------|
-| Feed Forward NN        | 100             | TBD           | Basic model with limited capacity.  |
+| Feed Forward NN        | 100             | 90.46%           | Basic model with limited capacity.  |
 | Convolutional NN       | 10              | TBD           | Strong feature extraction ability.  |
 | Transfer Learning (VGG)| 20              | TBD           | High accuracy due to pre-trained weights. |
 
