@@ -22,7 +22,7 @@ The [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset co
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/huzaifahtariqahmed/Fashion-MNIST-Dataset-Based-Training-Of-Various-Neural-Network-Architectures.git)
    ```
 2. Install the required dependencies:
    ```bash
