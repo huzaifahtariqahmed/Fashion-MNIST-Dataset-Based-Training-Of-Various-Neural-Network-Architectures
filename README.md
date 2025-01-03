@@ -59,7 +59,6 @@ The following metrics were used to evaluate the performance of the models:
 ## Future Work
 - Hyperparameter tuning for all models.
 - Experimenting with other pre-trained architectures.
-- Deployment of the best-performing model as a web service.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
