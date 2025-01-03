@@ -43,8 +43,8 @@ The following metrics were used to evaluate the performance of the models:
 | Model                  | Training Epochs | Test Accuracy | Remarks                             |
 |------------------------|-----------------|---------------|-------------------------------------|
 | Feed Forward NN        | 100             | 90.46%           | Basic model with limited capacity.  |
-| Convolutional NN       | 10              | TBD           | Strong feature extraction ability.  |
-| Transfer Learning (VGG)| 20              | TBD           | High accuracy due to pre-trained weights. |
+| Convolutional NN       | 10              | 92.88%           | Strong feature extraction ability.  |
+| Transfer Learning (VGG)| 20              | 88.11%           | High accuracy due to pre-trained weights. |
 
 ## Analyses
 - **Feed Forward Neural Network**:
@@ -64,9 +64,8 @@ The following metrics were used to evaluate the performance of the models:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
+--- 
 
-### Notes
-- Results marked as "TBD" will be updated after analysis in the notebook.
-- For any queries or suggestions, feel free to raise an issue or contribute to the repository.
+**Contributions**: 
 
+[Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed). 
