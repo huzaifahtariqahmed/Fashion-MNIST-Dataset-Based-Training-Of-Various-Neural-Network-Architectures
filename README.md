@@ -54,7 +54,7 @@ The following metrics were used to evaluate the performance of the models:
   - Achieves significantly better performance with fewer epochs due to convolutional layers.
 
 - **Transfer Learning**:
-  - Leverages pre-trained knowledge, resulting in faster convergence and higher accuracy.
+  - Leverages pre-trained knowledge, resulting in faster convergence.
   
 ## Future Work
 - Hyperparameter tuning for all models.
